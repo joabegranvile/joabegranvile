@@ -5,14 +5,19 @@ Hello! I am a software developer passionate about building scalable and efficien
 💼 Technologies and Tools
 
 Back-end: NestJS, TypeScript
+
 Front-end: Vue.js
+
 Infrastructure and DevOps:
 Google Kubernetes Engine (GKE) with autoscaling support
 Terraform for infrastructure as code
 NGINX as a web server and reverse proxy
 Docker and Docker Compose for containerization and local orchestration
-Database: PostgreSQL
+
+Database: PostgreSQL, DataStore, MongoDB
+
 Version Control: Git and GitHub
+
 Automation: Makefile for task automation
 
 📊 How I Work
