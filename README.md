@@ -20,3 +20,7 @@ In my projects, I follow a **modular, microservices-oriented approach**. I have 
 ### 🚀 **What Drives Me**  
 My mission is to **improve systems and processes**, whether by optimizing a project’s infrastructure or implementing efficient pipelines. Technology is constantly evolving, and I love learning new stacks and tools to further enhance my work. I am naturally curious and value **collaboration and continuous growth**.
 
+## My GitHub Stats 📊
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joabegranvile&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joabegranvile&show_icons=true&hide_title=true)
+
