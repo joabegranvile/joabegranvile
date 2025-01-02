@@ -10,7 +10,7 @@ Hello! I am a software developer passionate about building scalable and efficien
   - **Terraform** for infrastructure as code  
   - **NGINX** as a web server and reverse proxy  
   - **Docker and Docker Compose** for containerization and local orchestration  
-- **Database**: PostgreSQL  
+- **Database**: PostgreSQL, MongoDB
 - **Version Control**: Git and GitHub  
 - **Automation**: Makefile for task automation  
 
