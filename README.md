@@ -3,14 +3,14 @@
 Hello! I am a software developer passionate about building scalable and efficient solutions. With a focus on **back-end development and infrastructure**, I also master essential tools for **front-end development**. I value best practices, clean code, and process automation, always striving to optimize both system performance and team workflows.  
 
 ### 💼 **Technologies and Tools**  
-- **Back-end**: NestJS, TypeScript  
-- **Front-end**: Vue.js  
+- **Back-end**: NestJS, TypeScript
+- **Front-end**: Vue.js, React
 - **Infrastructure and DevOps**:  
-  - **Google Kubernetes Engine (GKE)** with autoscaling support  
+  - **Google Kubernetes Engine (GKE)** with autoscaling support
   - **Terraform** for infrastructure as code  
   - **NGINX** as a web server and reverse proxy  
   - **Docker and Docker Compose** for containerization and local orchestration  
-- **Database**: PostgreSQL, MongoDB
+- **Database**: PostgreSQL, MongoDB, Firebase
 - **Version Control**: Git and GitHub  
 - **Automation**: Makefile for task automation  
 
